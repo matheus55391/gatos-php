@@ -6,5 +6,4 @@
 site : https://gaatoos.000webhostapp.com/
 nota: Eu consegui arrumar alguns bugs de responsividade do site
 mas quando tento upar o style.css para o 000webhostapp.com ele
-da erro no css, não sei o motivo por isso deixei a versão do site
-no formato antigo.
+da erro no css, não sei o motivo por isso deixei a versão da pasta old no site.
